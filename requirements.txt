@@ -1,0 +1,2 @@
+customtkinter==4.6.3
+Pillow==9.3.0
